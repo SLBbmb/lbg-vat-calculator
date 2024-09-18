@@ -1,4 +1,4 @@
-// This adds a quality gate that aborts the pipeline if the quality threshold isn't met
+// This adds quality gate that aborts the pipeline if the quality threshold isn't met
 pipeline {
   agent any
 
