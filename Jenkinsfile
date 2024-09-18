@@ -1,4 +1,4 @@
-// This adds install and test stages before static code analysis
+// This add install and test stages before static code analysis
 pipeline {
   agent any
 
